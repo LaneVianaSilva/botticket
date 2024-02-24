@@ -1,0 +1,25 @@
+{
+  "client": {
+    "token": "MTIwOTY0Mjg0OTU0NTc1MjU4Ng.GdusEr.PaCoKnxzRqAin-Jk4kw7EzvMpzm2Oyh1c94i9M",
+    "owner_id": "855496226065350716"
+  },
+  "embeds_color": {
+    "embed_primary": "#8a2be2",
+    "embed_invisible": "#8a2be2",
+    "embed_success": "#059c00",
+    "embed_error": "#ff000d"
+  },
+  "ticket": {
+    "category_id": "1195034691724648711",
+    "category_call_id": "1195034691724648711",
+    "support_role": "1195034689182912557",
+    "channel_logs": "1195893461522583592",
+    "thumbnail": "https://media.discordapp.net/attachments/860266684614180894/1205311955339051028/Design_sem_nome.png?width=960&height=192",
+    "credits": "Purple Cloud Store"
+  },
+  "sales": {
+    "pix": "321c2895-a403-4df7-8215-7aae395ac078",
+    "qrcode": "https://i.imgur.com/OhLgsQm.png",
+    "name": "Gabriel do Nascimento Silva"
+  }
+}
